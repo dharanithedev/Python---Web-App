@@ -1,0 +1,18 @@
+Python - Web App (Without any framework)
+
+Step 1. Install Pip / pip3
+
+Step 2. Install pipenv
+
+Step 3. Install gunicorn
+
+        pipenv install gunicorn --python 3.8
+        
+Step 4. Enter into pipenv shell
+  
+        pipenv shell
+        
+Run Query - gunicorn server:app --reload
+
+
+
